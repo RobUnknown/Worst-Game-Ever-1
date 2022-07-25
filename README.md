@@ -1,5 +1,5 @@
 # Worst-Game-Ever-1
-A "game" you play in the command prompt made in Lua
+A "game"  made in Lua you play in the command prompt
 
 
 If you've for some reason taken the time to install Lua and properly run the file in a command prompt, you can witness the amazing controls this game has. 
